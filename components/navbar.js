@@ -30,10 +30,12 @@ import { FaBookDead } from "react-icons/fa";
 
 const navLinks = [
   { name: "Home", link: "/", icon: <FaHome /> },
-  { name: "About", link: "/about", icon: <FaBookDead /> },
-  { name: "Contact", link: "/contact", icon: <FaBookDead /> },
-  { name: "Blog", link: "/blog", icon: <FaBookDead /> },
-  { name: "Projects", link: "/projects", icon: <FaBookDead /> }
+  { name: "Resume", link: "/resume", icon: <FaBookDead /> },
+  { name: "Work Experience", link: "/jobs", icon: <FaBookDead /> },
+  { name: "Projects", link: "/projects", icon: <FaBookDead /> },
+  { name: "Skills", link: "/skills", icon: <FaBookDead /> },
+  { name: "Education", link: "/education", icon: <FaBookDead /> },
+  { name: "Contact", link: "/contact", icon: <FaBookDead /> }
 ];
 
 export const NavBarFloating = () => {
