@@ -14,7 +14,6 @@ const text = [
   "I am a Mobile Developer",
   "I am a Software Developer",
   "I am a UI/UX Designer",
-  "I am a UX Researcher",
   "I am a 3D modeller"
 ];
 
