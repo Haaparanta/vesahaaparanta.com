@@ -45,3 +45,13 @@ export const NavBarFloating = () => {
     </>
   );
 };
+
+import { NavBar } from './ui/navbar';
+
+export const Navbar = () => {
+  return (
+    <>
+      <NavBar navItems={navLinks} />
+    </>
+  );
+}
