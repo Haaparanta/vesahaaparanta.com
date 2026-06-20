@@ -14,7 +14,7 @@ import { NavBar } from "./ui/navbar";
 const navLinks = [
   { name: "Home", link: "/", icon: <Home size={18} /> },
   { name: "Resume", link: "/resume", icon: <FileText size={18} /> },
-  { name: "Work Experience", link: "/jobs", icon: <Briefcase size={18} /> },
+  { name: "Experience", link: "/jobs", icon: <Briefcase size={18} /> },
   { name: "Projects", link: "/projects", icon: <FolderGit2 size={18} /> },
   { name: "Skills", link: "/skills", icon: <Code size={18} /> },
   { name: "Education", link: "/education", icon: <GraduationCap size={18} /> },

@@ -23,40 +23,42 @@ export const NavBar = ({
         className
       )}
     >
-      <div className="max-w-7xl mx-auto flex justify-between items-center w-full">
-        <Link
-          href="/"
-          className="text-white font-medium text-lg hover:text-neutral-300 md:hidden"
-        >
-          Vesa Haaparanta
-        </Link>
+      <div className="max-w-7xl mx-auto w-full">
+        <div className="lg:hidden flex justify-between items-center w-full">
+          <Link
+            href="/"
+            className="text-white font-medium text-lg hover:text-neutral-300"
+          >
+            Vesa Haaparanta
+          </Link>
 
-        <button
-          type="button"
-          aria-label={menuOpen ? "Close menu" : "Open menu"}
-          aria-expanded={menuOpen}
-          onClick={() => setMenuOpen((open) => !open)}
-          className="md:hidden text-white p-2 min-h-11 min-w-11 flex items-center justify-center rounded-md hover:bg-white/10"
-        >
-          {menuOpen ? <X size={24} /> : <Menu size={24} />}
-        </button>
+          <button
+            type="button"
+            aria-label={menuOpen ? "Close menu" : "Open menu"}
+            aria-expanded={menuOpen}
+            onClick={() => setMenuOpen((open) => !open)}
+            className="text-white p-2 min-h-11 min-w-11 flex items-center justify-center rounded-md hover:bg-white/10"
+          >
+            {menuOpen ? <X size={24} /> : <Menu size={24} />}
+          </button>
+        </div>
 
-        <div className="hidden md:flex justify-between items-center w-full">
+        <nav className="hidden lg:flex flex-wrap justify-center items-center gap-x-1 gap-y-1 w-full">
           {navItems.map((navItem, idx) => (
             <Link
               key={`link-${idx}`}
               href={navItem.link}
-              className="text-white flex items-center gap-2 px-3 py-2 rounded-md hover:text-neutral-300 hover:bg-white/5"
+              className="text-white whitespace-nowrap flex items-center gap-1.5 px-2.5 py-2 rounded-md text-sm hover:text-neutral-300 hover:bg-white/5"
             >
-              <span className="text-lg">{navItem.icon}</span>
-              <span className="text-lg">{navItem.name}</span>
+              <span className="shrink-0">{navItem.icon}</span>
+              <span>{navItem.name}</span>
             </Link>
           ))}
-        </div>
+        </nav>
       </div>
 
       {menuOpen && (
-        <nav className="md:hidden mt-2 border-t border-white/10 pt-2">
+        <nav className="lg:hidden mt-2 border-t border-white/10 pt-2 max-w-7xl mx-auto">
           {navItems.map((navItem, idx) => (
             <Link
               key={`mobile-link-${idx}`}
