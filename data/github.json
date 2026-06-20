@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-06-20T08:23:36.496Z",
+  "fetchedAt": "2026-06-20T09:22:12.882Z",
   "profile": {
     "username": "Haaparanta",
     "name": "Vesa Haaparanta",
@@ -22,18 +22,20 @@
       "homepage": null,
       "primaryLanguage": "JavaScript",
       "languages": {
-        "JavaScript": 24806,
-        "CSS": 600
+        "JavaScript": 60428,
+        "TypeScript": 10681,
+        "CSS": 3250
       },
       "languageList": [
         "JavaScript",
+        "TypeScript",
         "CSS"
       ],
       "topics": [],
       "stars": 0,
       "forks": 0,
       "openIssues": 0,
-      "size": 588,
+      "size": 692,
       "license": null,
       "createdAt": "2024-03-01",
       "updatedAt": "2026-06-20",
@@ -213,8 +215,12 @@
       "url": "https://github.com/Haaparanta/GitHub-Contribution-Art-Generator",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 10993
+      },
+      "languageList": [
+        "Python"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -227,7 +233,7 @@
       "archived": false,
       "hasPages": false,
       "category": "tool",
-      "readmeExcerpt": null
+      "readmeExcerpt": "GitHub Contribution Art Generator GitHub Contribution Art Generator is a tool that allows you to create custom art and text on your GitHub contribution graph by manipulating commit dates and counts. Features - Generate text art using pixel art representation. - Generate image art by converting image…"
     },
     {
       "name": "RealTimeScreenSharing",
@@ -261,8 +267,12 @@
       "url": "https://github.com/Haaparanta/UltraRoadExpo",
       "homepage": null,
       "primaryLanguage": "JavaScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "JavaScript": 12261
+      },
+      "languageList": [
+        "JavaScript"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -283,8 +293,16 @@
       "url": "https://github.com/Haaparanta/decaydetectives.com",
       "homepage": null,
       "primaryLanguage": "JavaScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "JavaScript": 22279,
+        "TypeScript": 1983,
+        "CSS": 606
+      },
+      "languageList": [
+        "JavaScript",
+        "TypeScript",
+        "CSS"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -297,7 +315,7 @@
       "archived": false,
       "hasPages": false,
       "category": "web",
-      "readmeExcerpt": null
+      "readmeExcerpt": "This is a Next.js project bootstrapped with create-next-app. Getting Started First, run the development server: ``bash npm run dev or yarn dev or pnpm dev or bun dev ` Open http://localhost:3000 with your browser to see the result. You can start editing the page by modifying app/page.js. The page au…"
     },
     {
       "name": "Infinite-Craft-Bot",
@@ -305,8 +323,14 @@
       "url": "https://github.com/Haaparanta/Infinite-Craft-Bot",
       "homepage": null,
       "primaryLanguage": "JavaScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "JavaScript": 5600,
+        "HTML": 3590
+      },
+      "languageList": [
+        "JavaScript",
+        "HTML"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 2,
@@ -318,8 +342,8 @@
       "pushedAt": "2024-02-25",
       "archived": false,
       "hasPages": true,
-      "category": "tool",
-      "readmeExcerpt": null
+      "category": "game",
+      "readmeExcerpt": "Infinite-Craft-Bot The website is where you can play the game: https://neal.fun/infinite-craft/  My website where you can see combinations: https://haaparanta.github.io/Infinite-Craft-Bot/"
     },
     {
       "name": "Hacknight-Let-s-Build-Computer-Vision",
@@ -327,8 +351,18 @@
       "url": "https://github.com/Haaparanta/Hacknight-Let-s-Build-Computer-Vision",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 7142,
+        "CSS": 1670,
+        "HTML": 992,
+        "JavaScript": 903
+      },
+      "languageList": [
+        "Python",
+        "CSS",
+        "HTML",
+        "JavaScript"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -341,7 +375,7 @@
       "archived": false,
       "hasPages": false,
       "category": "hackathon",
-      "readmeExcerpt": null
+      "readmeExcerpt": "Hacknight-Let-s-Build-Computer-Vision"
     },
     {
       "name": "BRiDG3-24hack-ack-the-school",
@@ -349,8 +383,24 @@
       "url": "https://github.com/Haaparanta/BRiDG3-24hack-ack-the-school",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 15957493,
+        "JavaScript": 10242,
+        "PowerShell": 9033,
+        "Shell": 3204,
+        "HTML": 1721,
+        "CSS": 1269,
+        "RobotFramework": 1139
+      },
+      "languageList": [
+        "Python",
+        "JavaScript",
+        "PowerShell",
+        "Shell",
+        "HTML",
+        "CSS",
+        "RobotFramework"
+      ],
       "topics": [],
       "stars": 1,
       "forks": 0,
@@ -363,7 +413,7 @@
       "archived": false,
       "hasPages": false,
       "category": "hackathon",
-      "readmeExcerpt": null
+      "readmeExcerpt": "BRiDG3-24hack-ack-the-school BRiDG3 24hack *ack the school"
     },
     {
       "name": "NeoPixel-Snake",
@@ -371,8 +421,12 @@
       "url": "https://github.com/Haaparanta/NeoPixel-Snake",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 4091
+      },
+      "languageList": [
+        "Python"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -385,7 +439,7 @@
       "archived": false,
       "hasPages": false,
       "category": "hardware",
-      "readmeExcerpt": null
+      "readmeExcerpt": "NeoPixel-Snake NeoPixel Raspberry PI Pico Snake program"
     },
     {
       "name": "mafia",
@@ -393,8 +447,16 @@
       "url": "https://github.com/Haaparanta/mafia",
       "homepage": null,
       "primaryLanguage": "TypeScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "TypeScript": 39439,
+        "CSS": 1934,
+        "HTML": 921
+      },
+      "languageList": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ],
       "topics": [],
       "stars": 1,
       "forks": 0,
@@ -415,8 +477,12 @@
       "url": "https://github.com/Haaparanta/dalle",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 1441
+      },
+      "languageList": [
+        "Python"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -429,7 +495,7 @@
       "archived": false,
       "hasPages": false,
       "category": "ai",
-      "readmeExcerpt": null
+      "readmeExcerpt": "dalle Get AI generated images from a given text. returns imageurl"
     },
     {
       "name": "BuildingAI",
@@ -437,8 +503,12 @@
       "url": "https://github.com/Haaparanta/BuildingAI",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 4176
+      },
+      "languageList": [
+        "Python"
+      ],
       "topics": [],
       "stars": 0,
       "forks": 0,
@@ -451,7 +521,7 @@
       "archived": false,
       "hasPages": false,
       "category": "ai",
-      "readmeExcerpt": null
+      "readmeExcerpt": "BuildingAI https://buildingai.elementsofai.com/ Some of the advanced assigments in this course."
     },
     {
       "name": "Display",
@@ -459,8 +529,12 @@
       "url": "https://github.com/Haaparanta/Display",
       "homepage": null,
       "primaryLanguage": "Python",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "Python": 2077
+      },
+      "languageList": [
+        "Python"
+      ],
       "topics": [],
       "stars": 1,
       "forks": 0,
@@ -473,7 +547,7 @@
       "archived": false,
       "hasPages": false,
       "category": "hardware",
-      "readmeExcerpt": null
+      "readmeExcerpt": "Display Change display from DP to HDMI"
     },
     {
       "name": "Valtakunta",
@@ -481,8 +555,16 @@
       "url": "https://github.com/Haaparanta/Valtakunta",
       "homepage": null,
       "primaryLanguage": "TypeScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "TypeScript": 15950,
+        "HTML": 1721,
+        "CSS": 1573
+      },
+      "languageList": [
+        "TypeScript",
+        "HTML",
+        "CSS"
+      ],
       "topics": [],
       "stars": 1,
       "forks": 0,
@@ -494,8 +576,8 @@
       "pushedAt": "2022-05-05",
       "archived": false,
       "hasPages": false,
-      "category": "personal",
-      "readmeExcerpt": null
+      "category": "ai",
+      "readmeExcerpt": "Valtakunta https://valtakuntapeli.web.app Korttipelin säännöt Peli on juomapeli, mutta kehoitan kaikkia juomaan kohtuulisesti. Getting Started with Create React App This project was bootstrapped with Create React App. Available Scripts In the project directory, you can run: npm start Runs the app in…"
     },
     {
       "name": "curriculum_vitae",
@@ -503,8 +585,16 @@
       "url": "https://github.com/Haaparanta/curriculum_vitae",
       "homepage": null,
       "primaryLanguage": "TypeScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "TypeScript": 26871,
+        "CSS": 8075,
+        "HTML": 1717
+      },
+      "languageList": [
+        "TypeScript",
+        "CSS",
+        "HTML"
+      ],
       "topics": [],
       "stars": 1,
       "forks": 0,
@@ -516,8 +606,8 @@
       "pushedAt": "2022-04-11",
       "archived": false,
       "hasPages": false,
-      "category": "personal",
-      "readmeExcerpt": null
+      "category": "web",
+      "readmeExcerpt": "https://haaparantacv.fi Hi, I am Vesa Haaparanta and I study third-year computer science at the university of tampere on the Hervanta campus. I am fluent in Finnish and English. I have a strong passion for web development and I am looking forward to learning more about it. More specifically I would…"
     },
     {
       "name": "minuuttikalja",
@@ -525,8 +615,12 @@
       "url": "https://github.com/Haaparanta/minuuttikalja",
       "homepage": null,
       "primaryLanguage": "JavaScript",
-      "languages": {},
-      "languageList": [],
+      "languages": {
+        "JavaScript": 3044
+      },
+      "languageList": [
+        "JavaScript"
+      ],
       "topics": [],
       "stars": 1,
       "forks": 0,
@@ -538,64 +632,64 @@
       "pushedAt": "2022-02-18",
       "archived": false,
       "hasPages": false,
-      "category": "personal",
-      "readmeExcerpt": null
+      "category": "web",
+      "readmeExcerpt": "minuuttikalja android"
     }
   ],
   "skills": {
     "languages": [
       {
+        "name": "Python",
+        "repoCount": 11,
+        "totalBytes": 16840191,
+        "percentage": 82
+      },
+      {
         "name": "Makefile",
         "repoCount": 1,
         "totalBytes": 3085680,
-        "percentage": 69
-      },
-      {
-        "name": "Python",
-        "repoCount": 4,
-        "totalBytes": 852778,
-        "percentage": 19
+        "percentage": 15
       },
       {
         "name": "TypeScript",
-        "repoCount": 3,
-        "totalBytes": 150669,
-        "percentage": 3
+        "repoCount": 8,
+        "totalBytes": 245593,
+        "percentage": 1
+      },
+      {
+        "name": "JavaScript",
+        "repoCount": 10,
+        "totalBytes": 121826,
+        "percentage": 1
       },
       {
         "name": "DTrace",
         "repoCount": 1,
         "totalBytes": 97236,
-        "percentage": 2
+        "percentage": 0
       },
       {
         "name": "Svelte",
         "repoCount": 1,
         "totalBytes": 85670,
-        "percentage": 2
+        "percentage": 0
       },
       {
         "name": "Rust",
         "repoCount": 1,
         "totalBytes": 65447,
-        "percentage": 1
+        "percentage": 0
       },
       {
-        "name": "JavaScript",
-        "repoCount": 4,
-        "totalBytes": 31875,
-        "percentage": 1
+        "name": "CSS",
+        "repoCount": 10,
+        "totalBytes": 34573,
+        "percentage": 0
       },
       {
         "name": "Jupyter Notebook",
         "repoCount": 1,
         "totalBytes": 24945,
-        "percentage": 1
-      },
-      {
-        "name": "CSS",
-        "repoCount": 4,
-        "totalBytes": 16796,
         "percentage": 0
       },
       {
@@ -605,9 +699,21 @@
         "percentage": 0
       },
       {
+        "name": "HTML",
+        "repoCount": 8,
+        "totalBytes": 11308,
+        "percentage": 0
+      },
+      {
         "name": "C++",
         "repoCount": 1,
         "totalBytes": 11140,
+        "percentage": 0
+      },
+      {
+        "name": "PowerShell",
+        "repoCount": 1,
+        "totalBytes": 9033,
         "percentage": 0
       },
       {
@@ -617,9 +723,15 @@
         "percentage": 0
       },
       {
-        "name": "HTML",
-        "repoCount": 2,
-        "totalBytes": 646,
+        "name": "Shell",
+        "repoCount": 1,
+        "totalBytes": 3204,
+        "percentage": 0
+      },
+      {
+        "name": "RobotFramework",
+        "repoCount": 1,
+        "totalBytes": 1139,
         "percentage": 0
       }
     ],
@@ -630,7 +742,8 @@
           "AaltoAI-Ai-For-Good",
           "Aalto-AI-Open-Source-Lab",
           "dalle",
-          "BuildingAI"
+          "BuildingAI",
+          "Valtakunta"
         ]
       },
       {
@@ -647,7 +760,9 @@
         "repos": [
           "vesahaaparanta.com",
           "UltraRoadExpo",
-          "decaydetectives.com"
+          "decaydetectives.com",
+          "curriculum_vitae",
+          "minuuttikalja"
         ]
       },
       {
@@ -655,6 +770,7 @@
         "repos": [
           "OrkGame",
           "TicketToWorld",
+          "Infinite-Craft-Bot",
           "mafia"
         ]
       },
@@ -673,8 +789,7 @@
       {
         "name": "Tools",
         "repos": [
-          "GitHub-Contribution-Art-Generator",
-          "Infinite-Craft-Bot"
+          "GitHub-Contribution-Art-Generator"
         ]
       },
       {
@@ -693,6 +808,7 @@
       "Next.js",
       "Python",
       "Raspberry Pi Pico",
+      "React",
       "TypeScript"
     ],
     "roles": [
