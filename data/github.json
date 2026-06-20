@@ -1,0 +1,710 @@
+{
+  "fetchedAt": "2026-06-20T08:23:36.496Z",
+  "profile": {
+    "username": "Haaparanta",
+    "name": "Vesa Haaparanta",
+    "bio": "Lorem ipsum",
+    "location": "Finland, Tampere",
+    "blog": "https://haaparantacv.fi/",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/84461278?v=4",
+    "hireable": true,
+    "publicRepos": 33,
+    "followers": 10,
+    "following": 21,
+    "memberSince": "2021-05-19",
+    "url": "https://github.com/Haaparanta"
+  },
+  "projects": [
+    {
+      "name": "vesahaaparanta.com",
+      "description": "Repository for my website: https://vesahaaparanta.com ",
+      "url": "https://github.com/Haaparanta/vesahaaparanta.com",
+      "homepage": null,
+      "primaryLanguage": "JavaScript",
+      "languages": {
+        "JavaScript": 24806,
+        "CSS": 600
+      },
+      "languageList": [
+        "JavaScript",
+        "CSS"
+      ],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 588,
+      "license": null,
+      "createdAt": "2024-03-01",
+      "updatedAt": "2026-06-20",
+      "pushedAt": "2026-06-20",
+      "archived": false,
+      "hasPages": false,
+      "category": "web",
+      "readmeExcerpt": "This is a Next.js personal website for vesahaaparanta.com. Getting Started Install Bun, then install dependencies and start the dev server: ``bash bun install bun dev ` Open http://localhost:3000 with your browser to see the result. You can start editing the page by modifying app/page.js. The page a…"
+    },
+    {
+      "name": "AaltoAI-Ai-For-Good",
+      "description": "Aalto AI hackathon",
+      "url": "https://github.com/Haaparanta/AaltoAI-Ai-For-Good",
+      "homepage": null,
+      "primaryLanguage": "Makefile",
+      "languages": {
+        "Makefile": 3085680,
+        "Python": 593872,
+        "DTrace": 97236,
+        "Rust": 65447
+      },
+      "languageList": [
+        "Makefile",
+        "Python",
+        "DTrace",
+        "Rust"
+      ],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 129142,
+      "license": null,
+      "createdAt": "2026-05-22",
+      "updatedAt": "2026-05-24",
+      "pushedAt": "2026-05-24",
+      "archived": false,
+      "hasPages": false,
+      "category": "hackathon",
+      "readmeExcerpt": "Agentic Py2Rust Migrator Migrates Python projects to Rust with test-driven workflow and human review. The source project is never modified — outputs go to sibling folders. A Textual TUI runs the pipeline; at startup you pick an LLM provider and model. Architecture ``mermaid flowchart TB     User((Us…"
+    },
+    {
+      "name": "Aalto-AI-Open-Source-Lab",
+      "description": null,
+      "url": "https://github.com/Haaparanta/Aalto-AI-Open-Source-Lab",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {
+        "Python": 30574,
+        "TypeScript": 28480,
+        "CSS": 8609,
+        "JavaScript": 591,
+        "HTML": 360
+      },
+      "languageList": [
+        "Python",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 520,
+      "license": null,
+      "createdAt": "2026-05-23",
+      "updatedAt": "2026-05-23",
+      "pushedAt": "2026-05-23",
+      "archived": false,
+      "hasPages": false,
+      "category": "ai",
+      "readmeExcerpt": "--- marp: true theme: default paginate: true size: 16:9 title: LunchLens Elevator Deck description: Menu-aware hybrid forecasting for campus lunch demand and food-waste reduction style: |   :root {     --cursor-bg: #181818;     --cursor-chrome: #141414;     --cursor-elevated: #1f1f1f;     --cursor-t…"
+    },
+    {
+      "name": "Junction-2025-Valmet-HSY-Flow-Optimization",
+      "description": "Intelligent Flow Optimization by Valmet x HSY",
+      "url": "https://github.com/Haaparanta/Junction-2025-Valmet-HSY-Flow-Optimization",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {
+        "Python": 198115,
+        "Svelte": 85670,
+        "Jupyter Notebook": 24945,
+        "TypeScript": 8628,
+        "Dockerfile": 6872,
+        "CSS": 2173,
+        "JavaScript": 571,
+        "HTML": 286
+      },
+      "languageList": [
+        "Python",
+        "Svelte",
+        "Jupyter Notebook",
+        "TypeScript",
+        "Dockerfile",
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 15160,
+      "license": null,
+      "createdAt": "2025-11-14",
+      "updatedAt": "2025-11-16",
+      "pushedAt": "2025-11-16",
+      "archived": false,
+      "hasPages": false,
+      "category": "hackathon",
+      "readmeExcerpt": "Junction-2025-Valmet-HSY-Flow-Optimization   Intelligent Flow Optimization by Valmet x HSY   https://pumptech.surf   https://pumptech.surf/api/docs   https://eu.junctionplatform.com/events/junction-2025   https://www.valmet.com/fi/   https://www.hsy.fi   Project Description   An intelligent wastewat…"
+    },
+    {
+      "name": "OrkGame",
+      "description": null,
+      "url": "https://github.com/Haaparanta/OrkGame",
+      "homepage": null,
+      "primaryLanguage": "TypeScript",
+      "languages": {
+        "TypeScript": 113561,
+        "Python": 30217,
+        "JavaScript": 5907,
+        "CSS": 5414
+      },
+      "languageList": [
+        "TypeScript",
+        "Python",
+        "JavaScript",
+        "CSS"
+      ],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 13415,
+      "license": "MIT",
+      "createdAt": "2025-10-25",
+      "updatedAt": "2025-10-26",
+      "pushedAt": "2025-10-26",
+      "archived": false,
+      "hasPages": false,
+      "category": "game",
+      "readmeExcerpt": "ORK ORK ORK – A Tiny Roguelike Where EVERYBODY Is An Ork WAAAGH! This is a fast, silly, and surprisingly tactical word-combo battler where both sides are orks. Each turn you bark 1–3 ork-words (e.g., SHOOT, CHARGE, BOOM); the interpreter resolves your combo into actions. The enemy ork does the same.…"
+    },
+    {
+      "name": "TicketToWorld",
+      "description": null,
+      "url": "https://github.com/Haaparanta/TicketToWorld",
+      "homepage": null,
+      "primaryLanguage": "GDScript",
+      "languages": {
+        "GDScript": 13361
+      },
+      "languageList": [
+        "GDScript"
+      ],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 2915,
+      "license": null,
+      "createdAt": "2025-03-22",
+      "updatedAt": "2025-03-23",
+      "pushedAt": "2025-03-23",
+      "archived": false,
+      "hasPages": false,
+      "category": "game",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "GitHub-Contribution-Art-Generator",
+      "description": "GitHub Contribution Art Generator is a tool that allows you to create custom art and text on your GitHub contribution graph by manipulating commit dates and counts.",
+      "url": "https://github.com/Haaparanta/GitHub-Contribution-Art-Generator",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 1541,
+      "license": "MIT",
+      "createdAt": "2024-07-26",
+      "updatedAt": "2024-07-26",
+      "pushedAt": "2024-07-26",
+      "archived": false,
+      "hasPages": false,
+      "category": "tool",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "RealTimeScreenSharing",
+      "description": null,
+      "url": "https://github.com/Haaparanta/RealTimeScreenSharing",
+      "homepage": null,
+      "primaryLanguage": "C++",
+      "languages": {
+        "C++": 11140
+      },
+      "languageList": [
+        "C++"
+      ],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 5830,
+      "license": null,
+      "createdAt": "2024-06-23",
+      "updatedAt": "2024-06-23",
+      "pushedAt": "2024-06-23",
+      "archived": false,
+      "hasPages": false,
+      "category": "personal",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "UltraRoadExpo",
+      "description": "https://github.com/juha-ylikoski/UltraRoad",
+      "url": "https://github.com/Haaparanta/UltraRoadExpo",
+      "homepage": null,
+      "primaryLanguage": "JavaScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 450,
+      "license": null,
+      "createdAt": "2024-03-20",
+      "updatedAt": "2024-03-20",
+      "pushedAt": "2024-03-21",
+      "archived": false,
+      "hasPages": false,
+      "category": "web",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "decaydetectives.com",
+      "description": null,
+      "url": "https://github.com/Haaparanta/decaydetectives.com",
+      "homepage": null,
+      "primaryLanguage": "JavaScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 14160,
+      "license": null,
+      "createdAt": "2024-03-07",
+      "updatedAt": "2024-03-07",
+      "pushedAt": "2024-03-08",
+      "archived": false,
+      "hasPages": false,
+      "category": "web",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "Infinite-Craft-Bot",
+      "description": "https://neal.fun/infinite-craft/ ",
+      "url": "https://github.com/Haaparanta/Infinite-Craft-Bot",
+      "homepage": null,
+      "primaryLanguage": "JavaScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 2,
+      "openIssues": 0,
+      "size": 160,
+      "license": null,
+      "createdAt": "2024-02-22",
+      "updatedAt": "2024-02-22",
+      "pushedAt": "2024-02-25",
+      "archived": false,
+      "hasPages": true,
+      "category": "tool",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "Hacknight-Let-s-Build-Computer-Vision",
+      "description": null,
+      "url": "https://github.com/Haaparanta/Hacknight-Let-s-Build-Computer-Vision",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 263,
+      "license": null,
+      "createdAt": "2024-02-17",
+      "updatedAt": "2024-02-17",
+      "pushedAt": "2024-02-17",
+      "archived": false,
+      "hasPages": false,
+      "category": "hackathon",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "BRiDG3-24hack-ack-the-school",
+      "description": "BRiDG3 24hack *ack the school",
+      "url": "https://github.com/Haaparanta/BRiDG3-24hack-ack-the-school",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 18938,
+      "license": "MIT",
+      "createdAt": "2023-12-08",
+      "updatedAt": "2023-12-20",
+      "pushedAt": "2023-12-10",
+      "archived": false,
+      "hasPages": false,
+      "category": "hackathon",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "NeoPixel-Snake",
+      "description": "NeoPixel Raspberry PI Pico Snake program",
+      "url": "https://github.com/Haaparanta/NeoPixel-Snake",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 2,
+      "license": null,
+      "createdAt": "2022-09-04",
+      "updatedAt": "2022-09-04",
+      "pushedAt": "2022-09-04",
+      "archived": false,
+      "hasPages": false,
+      "category": "hardware",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "mafia",
+      "description": null,
+      "url": "https://github.com/Haaparanta/mafia",
+      "homepage": null,
+      "primaryLanguage": "TypeScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 1285,
+      "license": null,
+      "createdAt": "2022-06-23",
+      "updatedAt": "2022-06-27",
+      "pushedAt": "2022-07-15",
+      "archived": false,
+      "hasPages": false,
+      "category": "game",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "dalle",
+      "description": null,
+      "url": "https://github.com/Haaparanta/dalle",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 1,
+      "license": null,
+      "createdAt": "2022-07-13",
+      "updatedAt": "2022-07-13",
+      "pushedAt": "2022-07-13",
+      "archived": false,
+      "hasPages": false,
+      "category": "ai",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "BuildingAI",
+      "description": null,
+      "url": "https://github.com/Haaparanta/BuildingAI",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 0,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 3,
+      "license": null,
+      "createdAt": "2022-07-07",
+      "updatedAt": "2022-07-07",
+      "pushedAt": "2022-07-07",
+      "archived": false,
+      "hasPages": false,
+      "category": "ai",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "Display",
+      "description": "Change display",
+      "url": "https://github.com/Haaparanta/Display",
+      "homepage": null,
+      "primaryLanguage": "Python",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 5225,
+      "license": "MIT",
+      "createdAt": "2022-06-14",
+      "updatedAt": "2022-06-14",
+      "pushedAt": "2022-06-14",
+      "archived": false,
+      "hasPages": false,
+      "category": "hardware",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "Valtakunta",
+      "description": null,
+      "url": "https://github.com/Haaparanta/Valtakunta",
+      "homepage": null,
+      "primaryLanguage": "TypeScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 303,
+      "license": null,
+      "createdAt": "2022-04-28",
+      "updatedAt": "2022-04-28",
+      "pushedAt": "2022-05-05",
+      "archived": false,
+      "hasPages": false,
+      "category": "personal",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "curriculum_vitae",
+      "description": null,
+      "url": "https://github.com/Haaparanta/curriculum_vitae",
+      "homepage": null,
+      "primaryLanguage": "TypeScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 965,
+      "license": null,
+      "createdAt": "2022-02-18",
+      "updatedAt": "2022-04-05",
+      "pushedAt": "2022-04-11",
+      "archived": false,
+      "hasPages": false,
+      "category": "personal",
+      "readmeExcerpt": null
+    },
+    {
+      "name": "minuuttikalja",
+      "description": "android",
+      "url": "https://github.com/Haaparanta/minuuttikalja",
+      "homepage": null,
+      "primaryLanguage": "JavaScript",
+      "languages": {},
+      "languageList": [],
+      "topics": [],
+      "stars": 1,
+      "forks": 0,
+      "openIssues": 0,
+      "size": 142,
+      "license": null,
+      "createdAt": "2022-02-18",
+      "updatedAt": "2022-04-27",
+      "pushedAt": "2022-02-18",
+      "archived": false,
+      "hasPages": false,
+      "category": "personal",
+      "readmeExcerpt": null
+    }
+  ],
+  "skills": {
+    "languages": [
+      {
+        "name": "Makefile",
+        "repoCount": 1,
+        "totalBytes": 3085680,
+        "percentage": 69
+      },
+      {
+        "name": "Python",
+        "repoCount": 4,
+        "totalBytes": 852778,
+        "percentage": 19
+      },
+      {
+        "name": "TypeScript",
+        "repoCount": 3,
+        "totalBytes": 150669,
+        "percentage": 3
+      },
+      {
+        "name": "DTrace",
+        "repoCount": 1,
+        "totalBytes": 97236,
+        "percentage": 2
+      },
+      {
+        "name": "Svelte",
+        "repoCount": 1,
+        "totalBytes": 85670,
+        "percentage": 2
+      },
+      {
+        "name": "Rust",
+        "repoCount": 1,
+        "totalBytes": 65447,
+        "percentage": 1
+      },
+      {
+        "name": "JavaScript",
+        "repoCount": 4,
+        "totalBytes": 31875,
+        "percentage": 1
+      },
+      {
+        "name": "Jupyter Notebook",
+        "repoCount": 1,
+        "totalBytes": 24945,
+        "percentage": 1
+      },
+      {
+        "name": "CSS",
+        "repoCount": 4,
+        "totalBytes": 16796,
+        "percentage": 0
+      },
+      {
+        "name": "GDScript",
+        "repoCount": 1,
+        "totalBytes": 13361,
+        "percentage": 0
+      },
+      {
+        "name": "C++",
+        "repoCount": 1,
+        "totalBytes": 11140,
+        "percentage": 0
+      },
+      {
+        "name": "Dockerfile",
+        "repoCount": 1,
+        "totalBytes": 6872,
+        "percentage": 0
+      },
+      {
+        "name": "HTML",
+        "repoCount": 2,
+        "totalBytes": 646,
+        "percentage": 0
+      }
+    ],
+    "domains": [
+      {
+        "name": "AI / ML",
+        "repos": [
+          "AaltoAI-Ai-For-Good",
+          "Aalto-AI-Open-Source-Lab",
+          "dalle",
+          "BuildingAI"
+        ]
+      },
+      {
+        "name": "Hackathons",
+        "repos": [
+          "AaltoAI-Ai-For-Good",
+          "Junction-2025-Valmet-HSY-Flow-Optimization",
+          "Hacknight-Let-s-Build-Computer-Vision",
+          "BRiDG3-24hack-ack-the-school"
+        ]
+      },
+      {
+        "name": "Web Development",
+        "repos": [
+          "vesahaaparanta.com",
+          "UltraRoadExpo",
+          "decaydetectives.com"
+        ]
+      },
+      {
+        "name": "Game Development",
+        "repos": [
+          "OrkGame",
+          "TicketToWorld",
+          "mafia"
+        ]
+      },
+      {
+        "name": "DevOps / Infrastructure",
+        "repos": [
+          "RealTimeScreenSharing"
+        ]
+      },
+      {
+        "name": "Computer Vision",
+        "repos": [
+          "Hacknight-Let-s-Build-Computer-Vision"
+        ]
+      },
+      {
+        "name": "Tools",
+        "repos": [
+          "GitHub-Contribution-Art-Generator",
+          "Infinite-Craft-Bot"
+        ]
+      },
+      {
+        "name": "Hardware",
+        "repos": [
+          "NeoPixel-Snake",
+          "Display"
+        ]
+      }
+    ],
+    "tools": [
+      "Android",
+      "Docker",
+      "Godot",
+      "Jupyter",
+      "Next.js",
+      "Python",
+      "Raspberry Pi Pico",
+      "TypeScript"
+    ],
+    "roles": [
+      "Software Engineer",
+      "DevOps Engineer",
+      "Frontend Developer",
+      "Backend Developer",
+      "Game Developer",
+      "Mobile Developer",
+      "Software Developer",
+      "UI/UX Designer",
+      "3D modeller"
+    ]
+  }
+}

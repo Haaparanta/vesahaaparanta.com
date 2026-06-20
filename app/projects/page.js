@@ -1,9 +1,15 @@
-export default function Projects() {
+import githubData from "@/data/github.json";
+import { ProjectGrid } from "@/components/projects/project-grid";
+
+export const metadata = {
+  title: "Projects | Vesa Haaparanta",
+  description: "Curated open-source projects from GitHub.",
+};
+
+export default function ProjectsPage() {
   return (
-    <main className="flex min-h-screen max-h-screen items-center justify-center p-4 md:p-10">
-      <h1 className="text-6xl font-bold">Projects</h1>
-      <p className="text-xl">
-      </p>
+    <main className="min-h-screen">
+      <ProjectGrid profile={githubData.profile} projects={githubData.projects} />
     </main>
   );
 }
