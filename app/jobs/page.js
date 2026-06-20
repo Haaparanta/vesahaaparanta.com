@@ -2,8 +2,8 @@ import careerData from "@/data/career.json";
 import { ExperienceTimeline } from "@/components/experience/experience-timeline";
 
 export const metadata = {
-  title: "Work Experience | Vesa Haaparanta",
-  description: "Professional work history.",
+  title: "Experience",
+  description: "Professional work history in software engineering and defence systems.",
 };
 
 export default function JobsPage() {

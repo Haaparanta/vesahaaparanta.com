@@ -3,8 +3,8 @@ import githubData from "@/data/github.json";
 import { ResumeView } from "@/components/resume/resume-view";
 
 export const metadata = {
-  title: "Resume | Vesa Haaparanta",
-  description: "Professional resume and CV.",
+  title: "Resume",
+  description: "Resume and CV with experience, education, and skills.",
 };
 
 export default function ResumePage() {

@@ -2,12 +2,36 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 
 import { Navbar } from "@/components/navbar";
+import { siteConfig } from "@/lib/site";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Vesa Haaparanta",
-  description: "Personal website of Vesa Haaparanta — Software Engineer, DevOps, and Developer.",
+  metadataBase: new URL(siteConfig.url),
+  title: {
+    default: siteConfig.name,
+    template: `%s | ${siteConfig.name}`,
+  },
+  description: siteConfig.description,
+  applicationName: siteConfig.name,
+  authors: [{ name: siteConfig.name, url: siteConfig.url }],
+  creator: siteConfig.name,
+  openGraph: {
+    type: "website",
+    locale: "en_FI",
+    url: siteConfig.url,
+    siteName: siteConfig.name,
+    title: siteConfig.name,
+    description: siteConfig.description,
+  },
+  twitter: {
+    card: "summary",
+    title: siteConfig.name,
+    description: siteConfig.description,
+  },
+  alternates: {
+    canonical: siteConfig.url,
+  },
 };
 
 export default function RootLayout({ children }) {

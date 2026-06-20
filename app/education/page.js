@@ -2,8 +2,8 @@ import careerData from "@/data/career.json";
 import { EducationList } from "@/components/education/education-list";
 
 export const metadata = {
-  title: "Education | Vesa Haaparanta",
-  description: "Academic background and degrees.",
+  title: "Education",
+  description: "Academic background and degrees at Tampere University.",
 };
 
 export default function EducationPage() {
