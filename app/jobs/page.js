@@ -1,9 +1,19 @@
-export default function Jobs() {
+import careerData from "@/data/career.json";
+import { ExperienceTimeline } from "@/components/experience/experience-timeline";
+
+export const metadata = {
+  title: "Work Experience | Vesa Haaparanta",
+  description: "Professional work history.",
+};
+
+export default function JobsPage() {
   return (
-    <main className="flex min-h-screen max-h-screen items-center justify-center p-4 md:p-10">
-      <h1 className="text-6xl font-bold">Jobs</h1>
-      <p className="text-xl">
-      </p>
+    <main className="min-h-screen">
+      <ExperienceTimeline
+        profile={careerData.profile}
+        experience={careerData.experience}
+        earlierExperience={careerData.earlierExperience}
+      />
     </main>
   );
 }

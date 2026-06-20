@@ -1,9 +1,15 @@
-export default function Education() {
+import careerData from "@/data/career.json";
+import { EducationList } from "@/components/education/education-list";
+
+export const metadata = {
+  title: "Education | Vesa Haaparanta",
+  description: "Academic background and degrees.",
+};
+
+export default function EducationPage() {
   return (
-    <main className="flex min-h-screen max-h-screen items-center justify-center p-4 md:p-10">
-      <h1 className="text-6xl font-bold">Education</h1>
-      <p className="text-xl">
-      </p>
+    <main className="min-h-screen">
+      <EducationList education={careerData.education} />
     </main>
   );
 }

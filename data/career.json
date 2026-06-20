@@ -1,0 +1,147 @@
+{
+  "profile": {
+    "name": "Vesa Haaparanta",
+    "headline": "Chief Engineer, Virtual Systems at Patria Land Oy",
+    "location": "Tampere, Pirkanmaa, Finland",
+    "linkedinUrl": "https://www.linkedin.com/in/vesahaaparanta/",
+    "totalExperience": "5+ years"
+  },
+  "education": [
+    {
+      "id": "tuni-msc",
+      "institution": "Tampere University",
+      "institutionUrl": "https://www.linkedin.com/school/tampere-university",
+      "degree": "Master of Science (MSc)",
+      "field": "Information Technology",
+      "specialization": "Advanced studies in software, web and cloud technologies",
+      "startYear": 2023,
+      "endYear": 2025,
+      "location": "Finland"
+    },
+    {
+      "id": "tuni-bsc",
+      "institution": "Tampere University",
+      "institutionUrl": "https://www.linkedin.com/school/tampere-university",
+      "degree": "Bachelor of Science (BSc)",
+      "field": "Information Technology",
+      "specialization": "Advanced studies in software, web and cloud technologies",
+      "startYear": 2019,
+      "endYear": 2023,
+      "location": "Finland"
+    }
+  ],
+  "experience": [
+    {
+      "id": "patria-land",
+      "company": "Patria Land Oy",
+      "companyUrl": "https://www.linkedin.com/company/patrialand",
+      "title": "Software Developer",
+      "subtitle": "Chief Engineer, Virtual Systems",
+      "location": "Tampere, Pirkanmaa, Finland",
+      "startDate": "2025-08",
+      "endDate": null,
+      "current": true,
+      "category": "defence",
+      "highlights": []
+    },
+    {
+      "id": "patria-aviation",
+      "company": "Patria Aviation Oy",
+      "companyUrl": "https://www.linkedin.com/company/patria-aviation-oy",
+      "title": "Software Developer",
+      "location": "Tampere, Pirkanmaa, Finland",
+      "startDate": "2024-02",
+      "endDate": "2025-07",
+      "current": false,
+      "category": "defence",
+      "highlights": []
+    },
+    {
+      "id": "academic-work",
+      "company": "Academic Work",
+      "companyUrl": "https://www.linkedin.com/company/academic-work",
+      "title": "IT Consultant / System Engineer / Software Developer",
+      "location": "Tampere, Pirkanmaa, Finland",
+      "startDate": "2023-01",
+      "endDate": "2024-01",
+      "current": false,
+      "category": "consulting",
+      "highlights": [
+        "Worked at client Patria Aviation Oy",
+        "Transitioned to direct employment at Patria Aviation Oy at end of assignment"
+      ]
+    },
+    {
+      "id": "tuni-fullstack",
+      "company": "Tampere University",
+      "companyUrl": "https://www.linkedin.com/company/tampere-university",
+      "title": "Full Stack Developer",
+      "location": "Tampere, Pirkanmaa, Finland",
+      "startDate": "2022-11",
+      "endDate": "2022-12",
+      "current": false,
+      "category": "university",
+      "highlights": [
+        "Worked on the Penna project (services.fsd.tuni.fi/penna) including backend development with SQL",
+        "Full stack development with jQuery, Pyramid, HTML, and CSS",
+        "Conducted usability testing and heuristic evaluations"
+      ]
+    },
+    {
+      "id": "valmet-ux",
+      "company": "Valmet",
+      "companyUrl": "https://www.linkedin.com/company/valmet",
+      "title": "UX Researcher",
+      "location": "Tampere, Pirkanmaa, Finland",
+      "startDate": "2022-09",
+      "endDate": "2022-11",
+      "current": false,
+      "category": "research",
+      "highlights": [
+        "Course project for HTI.300 Usability Evaluation Methods",
+        "Heuristic evaluation, usability testing, and user interviews"
+      ]
+    },
+    {
+      "id": "tuni-developer",
+      "company": "Tampere University",
+      "companyUrl": "https://www.linkedin.com/company/tampere-university",
+      "title": "Software Developer",
+      "location": "Tampere, Pirkanmaa, Finland",
+      "startDate": "2022-06",
+      "endDate": "2022-10",
+      "current": false,
+      "category": "university",
+      "highlights": [
+        "Processed and validated XML with Python",
+        "Re-produced and redesigned over a dozen legacy programs",
+        "Migrated version control from Mercurial to GitLab",
+        "Built comprehensive test suites for legacy and new applications"
+      ]
+    },
+    {
+      "id": "finnish-defence-forces",
+      "company": "Finnish Defence Forces",
+      "companyUrl": "https://www.linkedin.com/company/finnish-defence-forces",
+      "title": "Software & Game Simulation Developer",
+      "location": "Säkylä, Satakunta, Finland",
+      "startDate": "2021-07",
+      "endDate": "2022-03",
+      "current": false,
+      "category": "simulation",
+      "highlights": [
+        "Designed and implemented new features for simulators",
+        "Organized training for hundreds of conscripts and soldiers",
+        "Improved simulation performance and investigated bugs",
+        "Created and maintained documentation; tested simulation functionality and gameplay"
+      ]
+    }
+  ],
+  "earlierExperience": {
+    "company": "Apetit Oyj",
+    "companyUrl": "https://www.linkedin.com/company/apetitplc",
+    "period": "2015–2021",
+    "summary": "Seasonal factory and maintenance roles during summers.",
+    "roles": ["Factory Worker", "Maintenance Mechanic"]
+  }
+}
