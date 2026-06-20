@@ -6,6 +6,12 @@
       "**/.*",
       "**/node_modules/**"
     ],
-    "trailingSlash": true
+    "trailingSlash": true,
+    "rewrites": [
+      {
+        "source": "/favicon.ico",
+        "destination": "/icon"
+      }
+    ]
   }
 }
