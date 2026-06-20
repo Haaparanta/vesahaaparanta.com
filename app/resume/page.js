@@ -1,9 +1,23 @@
-export default function Resume() {
+import careerData from "@/data/career.json";
+import githubData from "@/data/github.json";
+import { ResumeView } from "@/components/resume/resume-view";
+
+export const metadata = {
+  title: "Resume | Vesa Haaparanta",
+  description: "Professional resume and CV.",
+};
+
+export default function ResumePage() {
   return (
-    <main className="flex min-h-screen max-h-screen items-center justify-center p-4 md:p-10">
-      <h1 className="text-6xl font-bold">Resume</h1>
-      <p className="text-xl">
-      </p>
+    <main className="min-h-screen">
+      <ResumeView
+        profile={careerData.profile}
+        experience={careerData.experience}
+        earlierExperience={careerData.earlierExperience}
+        education={careerData.education}
+        githubProfile={githubData.profile}
+        skills={githubData.skills}
+      />
     </main>
   );
 }
