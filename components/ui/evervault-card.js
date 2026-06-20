@@ -1,6 +1,6 @@
 "use client";
 import { useMotionValue } from "framer-motion";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { useMotionTemplate, motion } from "framer-motion";
 import { cn } from "@/utils/cn";
 import { TypewriterEffect } from "./typewriter";
@@ -12,12 +12,7 @@ export const EvervaultCard = ({
   let mouseX = useMotionValue(0);
   let mouseY = useMotionValue(0);
 
-  const [randomString, setRandomString] = useState("");
-
-  useEffect(() => {
-    let str = generateRandomString(10000);
-    setRandomString(str);
-  }, []);
+  const [randomString, setRandomString] = useState(() => generateRandomString(10000));
 
   function onMouseMove({ currentTarget, clientX, clientY }) {
     let { left, top } = currentTarget.getBoundingClientRect();
